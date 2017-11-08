@@ -4,7 +4,7 @@ Mục tiêu chung: Anh/ chị có thể hiểu và nắm được cách xây d�
 
 ## Sử dụng Jupyter Notebook
 
-Chúng ta vẫn sử dụng công cụ này như giới thiệu [ở](https://github.com/kienvu58/face_detection)
+Chúng ta vẫn sử dụng công cụ này như giới thiệu [ở ](http://cs231n.github.io/ipython-tutorial/)
 
 ## Keras
 
